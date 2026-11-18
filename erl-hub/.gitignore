@@ -1,0 +1,5 @@
+*.o
+erlhub
+erlhub.exe
+*.bin
+*.bin.tmp
